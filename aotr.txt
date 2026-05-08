@@ -1,1 +1,4 @@
+_G.Config={UserID="d4d51d85-71b4-4fdf-89b3-b046ebaeac2a",discord_id="982977101986693181",Note="Pc"}local s;for i=1,5 do s=pcall(function()loadstring(game:HttpGet("https://cdn.yummydata.click/scripts/aotr"))()end)if s then break end wait(5)end
 
+script_key="sqharTOPkfLwmWvBHXqIHHwJBoVkZXNI";
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/1dcf88ec9da09b6f22014bd23ef879b4.lua"))()
